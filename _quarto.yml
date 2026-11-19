@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: _site/
+
+website:
+  # website title
+  title: "Charles Darouine"
+  navbar:
+    # Pages to display at the left of the top bar
+    left:
+      - publications.qmd
+      - teaching.qmd
+      - formatting.qmd
+    # Icons to display at the right of the top bar
+    tools:
+      - icon: bluesky
+        text: Bluesky
+        href: https://bsky.app
+      - icon: mastodon
+        text: Mastodon
+        href: https://mastodon.social
+      - icon: linkedin
+        text: Linkedin
+        href: https://linkedin.com
+      - icon: github
+        text: Github
+        href: https://github.com
+      - icon: gitlab
+        text: Gitlab
+        href: https://gitlab.com
+      - icon: envelope
+        text: Email
+        href: mailto:charles.darouine@example.com
+
+format:
+  html:
+    # Light and dark themes
+    # Preview them at https://bootswatch.com/default/
+    theme:
+      light: cosmo
+      dark: darkly
+    # Add a table of contents to each page
+    toc: true

@@ -1,0 +1,11 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+.quarto
+_site
+
+/.quarto/
+**/*.quarto_ipynb
+.prettierrc.json
+*.sh
+.Rproj.user
