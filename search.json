@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "publications/spichizes.html",
+    "href": "publications/spichizes.html",
+    "title": "The origin of spichizes",
+    "section": "",
+    "text": "A spichize says hello\n\n\nThis is a book about where the spichizes come from.\n\n\n\nReuseCC BY 4.0"
+  },
+  {
+    "objectID": "formatting.html",
+    "href": "formatting.html",
+    "title": "Formatting examples",
+    "section": "",
+    "text": "This page shows some formatting options available in pages content. You can take a look at the formatting.qmd file to see which markdown syntax is used."
+  },
+  {
+    "objectID": "formatting.html#basic-formatting",
+    "href": "formatting.html#basic-formatting",
+    "title": "Formatting examples",
+    "section": "Basic formatting",
+    "text": "Basic formatting\nText can be put in bold, italic or verbatim.\nIt is possible to create lists:\n\nitem 1\nitem 2\nitem 3\n\nWhich can be ordered:\n\nitem 1\nitem 2\nitem 3\n\nURLs can be inserted as is:\nhttps://example.com\nOr as a link.\nYou can also link to another site page like publications.\nFootnotes are available too1."
+  },
+  {
+    "objectID": "formatting.html#verbatim-and-source-code",
+    "href": "formatting.html#verbatim-and-source-code",
+    "title": "Formatting examples",
+    "section": "Verbatim and source code",
+    "text": "Verbatim and source code\nText can be shown verbatim in a monospace font.\nMy name is Darouine\nI like evolving\nEverythin I'm doing\nIs very interesting\nFor source code, syntax highlighting is available.\ndef hello() -&gt; None:\n    print(\"Hello\")\nhello &lt;- function() { print(\"Hello\") }"
+  },
+  {
+    "objectID": "formatting.html#images-and-figures",
+    "href": "formatting.html#images-and-figures",
+    "title": "Formatting examples",
+    "section": "Images and figures",
+    "text": "Images and figures\nIt is possible to insert images:\n\nImages can be resized:\n\n\nIf a caption is provided, the image becomes a figure:\n\n\n\nCharles Darouine self portrait\n\n\nBy adding lightbox: true in the page preamble, each image and is shown at a bigger size when clicked."
+  },
+  {
+    "objectID": "formatting.html#tables",
+    "href": "formatting.html#tables",
+    "title": "Formatting examples",
+    "section": "Tables",
+    "text": "Tables\nTables are possible, but not that easy to type.\n\nWe can even add a table caption\n\n\nDefault\nLeft\nRight\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
+  },
+  {
+    "objectID": "formatting.html#complex-layout",
+    "href": "formatting.html#complex-layout",
+    "title": "Formatting examples",
+    "section": "Complex layout",
+    "text": "Complex layout\n\n\n\n\n\nHello there\n\n\nYou can have complex layouts such as full page sections, content in the margins like the above beautiful picture, etc."
+  },
+  {
+    "objectID": "formatting.html#equations",
+    "href": "formatting.html#equations",
+    "title": "Formatting examples",
+    "section": "Equations",
+    "text": "Equations\nIt is possible to format mathematics using the standard LaTeX syntax.\n\\[\\sum_{i=1}^{n} \\sqrt{x}\\]"
+  },
+  {
+    "objectID": "formatting.html#citations",
+    "href": "formatting.html#citations",
+    "title": "Formatting examples",
+    "section": "Citations",
+    "text": "Citations\nIf you provide a bibliography file you can easily insert citations like (Darouine 2026, 42). A References section will be automatically added at the end of the page."
+  },
+  {
+    "objectID": "formatting.html#footnotes",
+    "href": "formatting.html#footnotes",
+    "title": "Formatting examples",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is a very interesting footnote↩︎"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "This is a list of my very interesting teaching experiences.\nOk, there is not a lot of them right now."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "I mostly work on very interesting subjects using very interesting methods to obtain very interesting results."
+  },
+  {
+    "objectID": "publications.html#highlights",
+    "href": "publications.html#highlights",
+    "title": "Publications",
+    "section": "Highlights",
+    "text": "Highlights\nHere are some especially very interesting publications among all my very interesting publications.\n\n\n\n\n\n\n\n\n\n\nThe origin of spichizes\n\n\nIn this book we show that when things evolve they may change or not. It depends.\n\n\n\nCharles Darouine\n\n\nJul 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nUltrametabarcoding\n\n\nIn this paper we go beyond metabarcoding to fund ultrametabarcoding.\n\n\n\nCharles Darouine\n\n\nJul 3, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html#complete-list",
+    "href": "publications.html#complete-list",
+    "title": "Publications",
+    "section": "Complete list",
+    "text": "Complete list\nHere is my complete list of very interesting publications.\n\n\nDarouine, Charles. 2026. The Origin of Spichizes. https://doi.org/10.5555/12345678.\n\n\nDarouine, Charles, and Marie Curry. 2026. “Ultrametabarcoding.” Proceedings of Very Interesting Things 5 (2). https://example.com.\n\n\nDarouine, Charles, and Isaac Nouvelletonne. 2025. When the Apple Falls from the Tree of Life. Conference talk at the 10th Annual Very Interesting Conference."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Charles Darouine",
+    "section": "",
+    "text": "Hi, I’m Charles Darouine and I like to evolve.\nI do very interesting things.\nTake a look at my publications and my teaching experiences."
+  },
+  {
+    "objectID": "publications/ultrametabarcoding.html",
+    "href": "publications/ultrametabarcoding.html",
+    "title": "Ultrametabarcoding",
+    "section": "",
+    "text": "This is a paper about a new revolutionary technique that goes beyond simple metabarcoding.\n\n\n\nCitationBibTeX citation:@article{darouine2026,\n  author = {Darouine, Charles},\n  title = {Ultrametabarcoding},\n  journal = {Proceedings of very interesting things},\n  volume = {5},\n  number = {2},\n  date = {2026-07-03},\n  url = {https://juba.github.io/test_academic/publications/ultrametabarcoding.html},\n  doi = {10.5555/12345678},\n  langid = {en},\n  abstract = {In this paper we go beyond metabarcoding to fund\n    ultrametabarcoding.}\n}\nFor attribution, please cite this work as:\nDarouine, Charles. 2026. “Ultrametabarcoding.”\nProceedings of Very Interesting Things 5 (2). https://doi.org/10.5555/12345678."
+  }
+]
